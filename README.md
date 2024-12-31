@@ -103,5 +103,17 @@ php artisan migrate
 
 - The project is fully completed, with all necessary modules and functionality implemented.
 
+![welcome page](https://github.com/user-attachments/assets/2e305c9a-a322-402a-87fc-d3cf8c8daac3)
+![Side bar and about me](https://github.com/user-attachments/assets/a05fc64c-02ef-4396-bff1-55921c2e496d)
+![eduandex](https://github.com/user-attachments/assets/242ed1a4-9b47-45f8-8607-503e2d913517)
+![skills and services](https://github.com/user-attachments/assets/21d91437-b9a5-4393-a6a2-ac8c607a8eae)
+![contact](https://github.com/user-attachments/assets/9e70938b-b4aa-4455-b4dc-9389908ec802)
+![footer](https://github.com/user-attachments/assets/cc61de16-60c9-44b6-a477-eb58a4e1a032)
+![admin dashboard](https://github.com/user-attachments/assets/a4377696-996f-4740-9f2c-abf5e7956172)
+
+
+
+
+
 
 
